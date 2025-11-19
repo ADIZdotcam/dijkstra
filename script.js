@@ -1,7 +1,7 @@
 const canvas = document.getElementById("graphCanvas");
 const ctx = canvas.getContext("2d");
-canvas.width = 500;
-canvas.height = 500;
+canvas.width = 400;
+canvas.height = 400;
 
 const infoTable = document.getElementById("info-table").querySelector("tbody");
 const nextBtn = document.getElementById("next");
